@@ -40,7 +40,7 @@ Kyivstar TV Mini - Android-додаток для перегляду онлайн
 - Локальне збереження favorites з привʼязкою до email користувача
 
 ▶️ Запуск проєкту
-- 1️⃣ Клонувати репозиторій: git clone https://github.com/your-username/KyivstarTvMini.git
+- 1️⃣ Клонувати репозиторій: git clone https://github.com/Vitalik1800/KyivstarTvMini.git
 - 2️⃣ Відкрити проєкт в Android Studio
 - 3️⃣ Синхронізувати Gradle
 - 4️⃣ Запустити додаток на емуляторі або реальному пристрої
