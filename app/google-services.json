@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257370218734",
+    "project_id": "kyivstartvmini",
+    "storage_bucket": "kyivstartvmini.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257370218734:android:85673c61f62c8d2e5553ff",
+        "android_client_info": {
+          "package_name": "com.vs18.kyivstartvmini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUtt7lQUJpL6tHep5wUHVznvy6QAc9izg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">img.prosto.tv</domain>
+        <domain includeSubdomains="true">iptvx.one</domain>
+        <domain includeSubdomains="true">ukrainske.tv</domain>
+        <domain includeSubdomains="true">tva.in.ua</domain>
+        <domain includeSubdomains="true">api-tv.ipnet.ua</domain>
+    </domain-config>
+    <base-config cleartextTrafficPermitted="true"/>
+</network-security-config>
